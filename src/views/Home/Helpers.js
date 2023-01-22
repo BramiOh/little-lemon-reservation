@@ -49,6 +49,7 @@ const theme = useTheme();
                 <Chip label="Desserts"  sx={{color: primaryColor, fontWeight:'bold', marginRight: 2}}/>
                 <Chip label="A La Carte"  sx={{color: primaryColor, fontWeight:'bold'}}/>
             </div>
+            
         </div>
     </Container>
   );
