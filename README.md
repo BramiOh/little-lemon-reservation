@@ -1,7 +1,5 @@
 # Little Lemon
 
-## Critères d’examen
-
 ### Lorsque vous soumettez votre devoir, les autres apprenants du cours examineront et noteront votre  travail. Ils évalueront les éléments ssuivants :
 ### - L’apprenant a-t-il suivi la  conception et la mise en œuvre de l’interface utilisateur UX ?
 ### - Y a-t-il des balises d’accessibilité ### appropriées appliquées?
